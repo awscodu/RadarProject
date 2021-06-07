@@ -11,7 +11,7 @@
     <properties>
         <libGdx.version>1.9.6</libGdx.version>
         <slf4jVersion>1.7.12</slf4jVersion>
-        <logbackVersion>1.1.2</logbackVersion>
+        <logbackVersion>1.2.0</logbackVersion>
         <commons.math.version>3.6.1</commons.math.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
